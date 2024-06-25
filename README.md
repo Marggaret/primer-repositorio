@@ -1,2 +1,2 @@
-# primer-repositorio
+# aprendiendo github para mejorar
 Aprendiendo
